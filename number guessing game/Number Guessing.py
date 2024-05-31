@@ -1,6 +1,6 @@
 from random import randint
 
-# taking a random number from 1 to 100 from the random library
+# taking a random number from 1 to 100 using randint from random
 value = randint(0,100)
 
 # game code
