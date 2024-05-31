@@ -12,4 +12,4 @@ while 1:
     if value < i:
         print("Too high")
     elif value > i:
-        print("Too low") 
+        print("Too low")
